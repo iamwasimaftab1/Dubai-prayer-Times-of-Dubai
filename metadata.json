@@ -1,0 +1,5 @@
+{
+  "name": "UAE Prayer Timings Widget",
+  "description": "A modern, responsive prayer timing application featuring city-specific data for the UAE, inspired by Khaleej Times design. It provides real-time highlights for the next prayer and a comprehensive monthly schedule.",
+  "requestFramePermissions": []
+}
